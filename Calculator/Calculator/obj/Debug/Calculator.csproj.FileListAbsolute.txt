@@ -1,0 +1,5 @@
+c:\users\bryant\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Calculator.dll
+c:\users\bryant\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Calculator.pdb
+c:\users\bryant\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\bryant\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.dll
+c:\users\bryant\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
